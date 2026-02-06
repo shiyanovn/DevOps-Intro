@@ -33,3 +33,21 @@ In DevOps, many people work on the same code. Signed commits help us know exactl
 
 ![Verified commit screenshot](screenshots/verified_commit.png)
 ---
+
+## Task 2: PR Template & Checklist
+
+### 1. PR Template Location
+
+File `.github/pull_request_template.md` is created in the main branch.
+
+### 2. Screenshot of PR Template Auto-fill
+
+![PR template autofill screenshot](screenshots/pr_template_autofill.png)
+
+### 3. How PR Templates Help
+
+PR templates help teams to remember all important information for every pull request. It makes review easier and reduces mistakes.
+
+### 4. Challenges
+
+At first, the template did not appear because I created PR before adding the file to main. I learned the template must be in main before PR.
