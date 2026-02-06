@@ -19,3 +19,9 @@ commit.gpgSign=true
 gpg.format=ssh
 user.signingkey=/Users/shiyanovn/.ssh/id_ed25519.pub
 ```
+
+---
+
+### 3. Why is Commit Signing Important in DevOps Workflows?
+
+In DevOps, many people work on the same code. Signed commits help us know exactly who made each change. It stops attackers or mistakes from unknown people, and is required for security in many companies.
