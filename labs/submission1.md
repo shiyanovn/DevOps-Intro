@@ -25,3 +25,11 @@ user.signingkey=/Users/shiyanovn/.ssh/id_ed25519.pub
 ### 3. Why is Commit Signing Important in DevOps Workflows?
 
 In DevOps, many people work on the same code. Signed commits help us know exactly who made each change. It stops attackers or mistakes from unknown people, and is required for security in many companies.
+
+
+---
+
+[My signed commit](https://github.com/shiyanovn/DevOps-Intro/commit/d3059b65be7140413647905435e988f4705540a0)
+
+![Verified commit screenshot](screenshots/verified_commit.png)
+---
